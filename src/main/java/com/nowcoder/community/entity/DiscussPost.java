@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * @Author: ZhuJiapeng
- * @Description:
+ * @Description: 帖子实体类
  * @Date: Created in 14:26 2022/3/12
  * @Modified By:
  */
